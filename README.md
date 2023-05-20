@@ -31,4 +31,6 @@ Qual a melhor forma de aumentar o número de jogadores VIPS de sua cidade? Com e
 
 Para aqueles jogadores que gostam sempre de comprar veículos esta garagem tem a opção de revender os veículos para a própria concessionária, caso o jogador tenha batido o limite de vagas e não adquira um VIP ele poderá vender o veículo que desejar para a concessionária para liberar vagas em sua garagem.
 
-<!-- print da config com limite de vagas -->
+https://github.com/SylvioLeonZanotti/Harry_Conce/assets/123652053/2536f92a-6de6-48d1-ae46-f49d9a8d571a
+
+
