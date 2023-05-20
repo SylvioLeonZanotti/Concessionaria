@@ -12,7 +12,7 @@ Todo o estoque de vendas de veículos são gerenciados através do **config** do
 
 através do config do script é possível escolher um veículo para ficar posicionado fixo em um local da concessionária como forma de showroom. 
 
-<!-- Imagem do veículo spawnado -->
+![Screenshot_6](https://github.com/SylvioLeonZanotti/Harry_Conce/assets/123652053/0a9d6b4e-3360-4b5b-bfcb-bf9393d35e47)
 
 Aumente a procura dos veículos VIPS da sua cidade, é possível acrescentar categorias na sua loja como "VIPS" e deixá-los com um valor inacessível aos jogadores, assim poderáo visualizar os veículos que a loja vip de sua cidade tiver disponível.
 
