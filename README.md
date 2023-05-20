@@ -10,7 +10,8 @@ https://github.com/SylvioLeonZanotti/Harry_Conce/assets/123652053/d0982e0a-d21e-
 
 Todo o estoque de vendas de veículos são gerenciados através do **config** do script, assim diminuindo as chances de erros relacionados a banco de dados que podem ser causados quando inseridos errados pelo cliente.
 
-<!-- Print das tabelas de veículos -->
+![Screenshot_7](https://github.com/SylvioLeonZanotti/Harry_Conce/assets/123652053/1cfcea5f-b188-430d-a9a9-6127d172d787)
+
 
 # Configurações
 
@@ -23,6 +24,8 @@ Aumente a procura dos veículos VIPS da sua cidade, é possível acrescentar cat
 # Vagas na garagem
 
 Qual a melhor forma de aumentar o número de jogadores VIPS de sua cidade? Com esta concessionária você poderá limitar cada permissão disponível em sua cidade quantas vagas estarão disponíveis, desta forma quando este limite for atingido o jogador irá procurar formas de expandir a quantidade de vagas em sua garagem.
+
+![Screenshot_8](https://github.com/SylvioLeonZanotti/Harry_Conce/assets/123652053/fe071237-d259-42d1-ba69-0fed0b66ac7d)
 
 # Revenda de veículos
 
