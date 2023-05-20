@@ -16,7 +16,7 @@ através do config do script é possível escolher um veículo para ficar posici
 
 Aumente a procura dos veículos VIPS da sua cidade, é possível acrescentar categorias na sua loja como "VIPS" e deixá-los com um valor inacessível aos jogadores, assim poderáo visualizar os veículos que a loja vip de sua cidade tiver disponível.
 
-# Coloque limites de vendas por permissões
+# Vagas na garagem
 
 Qual a melhor forma de aumentar o número de jogadores VIPS de sua cidade? Com esta concessionária você poderá limitar cada permissão disponível em sua cidade quantas vagas estarão disponíveis, desta forma quando este limite for atingido o jogador irá procurar formas de expandir a quantidade de vagas em sua garagem.
 
